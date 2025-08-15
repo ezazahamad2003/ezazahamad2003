@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hey, I'm Ikram — building human-level assistants & wearables 👋</h1>
+<h1 align="center">Hey, I'm Ezaz — building human-level assistants & wearables 👋</h1>
 <p align="center">
   Founder @ <b>Zaz Labs</b> • SF Bay Area • AI + Systems • Ex-Berkeley Lab Research
 </p>
@@ -14,9 +14,9 @@
 
 ---
 
-<!-- HERO / BANNER (optional — swap the src with your image URL from your site) -->
+<!-- HERO / BANNER -->
 <p align="center">
-  <img src="https://zaz-three.vercel.app/og-image.png" alt="Zaz Labs banner" width="900"/>
+  <img src="./zaz-labs-logo.png" alt="Zaz Labs banner" width="900"/>
 </p>
 
 ## 🚀 What I'm building
@@ -72,7 +72,7 @@
 <!-- FOOTER BADGES -->
 <p align="left">
   <a href="https://zaz-three.vercel.app"><img src="https://img.shields.io/badge/Website-online-success?style=flat&logo=vercel" /></a>
-  <a href="mailto:ikram"><img src="https://img.shields.io/badge/Contact-lets%20build-black?style=flat&logo=gmail" /></a>
+  <a href="mailto:ezaz"><img src="https://img.shields.io/badge/Contact-lets%20build-black?style=flat&logo=gmail" /></a>
 </p>
 
 <!--
