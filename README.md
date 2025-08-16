@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://zaz-three.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ramizuddin7" target="_blank">LinkedIn</a> •
-  <a href="https://youtube.com/@journeyinsightsusa?si=uT9F_bU2ADCt5-Fo" target="_blank">YouTube</a> •
+  <a href="https://www.linkedin.com/in/ezaz-ahamad-821386229/" target="_blank">LinkedIn</a> •
+  <a href="https://www.youtube.com/@ezazahamad7520" target="_blank">YouTube</a> •
   <a href="https://github.com/ezazahamad2003" target="_blank">GitHub</a> •
-  <a href="https://www.instagram.com/Ramizron7" target="_blank">Instagram</a>
+  <a href="https://www.instagram.com/zaz_labs/" target="_blank">Instagram</a>
 </p>
 
 ---
@@ -57,9 +57,9 @@
 
 ## 🔗 Quick links
 - Portfolio: **https://zaz-three.vercel.app**
-- LinkedIn: **/in/ramizuddin7**
-- YouTube: **@journeyinsightsusa**
-- Instagram: **@Ramizron7**
+- LinkedIn: **/in/ezaz-ahamad-821386229/**
+- YouTube: **@ezazahamad7520**
+- Instagram: **@zaz_labs**
 
 ---
 
