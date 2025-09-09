@@ -34,7 +34,7 @@
 
 ## 🛠️ Stack I reach for
 **Lang/ML:** Python, C/C++, CUDA, RAPIDS, cuDF, cuML, XGBoost  
-**Agents/LLMs:** Gemini, OpenAI, Anthropic, Flask/FastAPI, LangChain  
+**Agents/LLMs:** Gemini, OpenAI, Anthropic, Flask/FastAPI, LangChain, Agent memory
 **Frontend:** React, Next.js, Tailwind, Flutter  
 **Cloud/Infra:** GCP, AWS, Firebase (Auth/Firestore/Hosting), Docker  
 **Data/Vis:** Pandas/Polars, Tableau/PowerBI
