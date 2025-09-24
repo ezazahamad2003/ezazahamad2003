@@ -25,7 +25,7 @@
 - **Pregame.club** — AI networking for events (10k+ users)  
 - **Natsu AI / DehaAI / Wellia** — healthcare + eldercare case-manager agents with secure local memory
 
-> Mission: make AI that *remembers like a second brain* and *acts* like a real teammate.
+> Mission: make AI that *remembers like a second brain* and *acts* like a real teammate
 
 ## 🧪 Research & interests
 - Multi-modal encoders • on-device inference • CUDA/OMP acceleration  
