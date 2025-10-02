@@ -30,7 +30,7 @@
 ## 🧪 Research & interests
 - Multi-modal encoders • on-device inference • CUDA/OMP acceleration  
 - Graph-RAG + long-horizon "Deep Memory DAGs"  
-- Agentic workflows (tools, UI control, Zoom/Calendar/Trello) with low latency and high reliability
+- Agentic workflows (tools, UI control, Zoom/Calendar/Trello) with low latency and high reliability.
 
 ## 🛠️ Stack I reach for
 **Lang/ML:** Python, C/C++, CUDA, RAPIDS, cuDF, cuML, XGBoost  
