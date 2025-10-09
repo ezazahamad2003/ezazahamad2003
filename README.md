@@ -23,7 +23,7 @@
 - **Calex** — personal AI wearable + deep memory layer (text + audio + vision) for real-time assistance, The future
 - **AERO** — Automatic Execution & Reaction Orchestrator (instant action agent for desktop & web)  
 - **Pregame.club** — AI networking for events (10k+ users)  
-- **Natsu AI / DehaAI / Wellia** — healthcare + eldercare case-manager agents with secure local memory
+- **Natsu AI / DehaAI / Wellia** — healthcare + eldercare case-manager agents with secure local memory.
 
 > Mission: make AI that *remembers like a second brain* and *acts* like a real teammate.
 
