@@ -28,7 +28,7 @@
 > Mission: make AI that *remembers like a second brain* and *acts* like a real teammate.
 
 ## 🧪 Research & interests
-- Multi-modal encoders • on-device inference • CUDA/OMP acceleration  
+- Multi-modal encoders • on-device inference • CUDA/OMP acceleration.  
 - Graph-RAG + long-horizon "Deep Memory DAGs"  
 - Agentic workflows (tools, UI control, Zoom/Calendar/Trello) with low latency and high reliability.
 
